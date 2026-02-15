@@ -18,4 +18,4 @@ Symfony backends, and Angular frontends for companies that need software built t
 ## Links
 
 🌐 [webware.technology](https://webware.technology)  
-💼 [LinkedIn](https://www.linkedin.com/company/webware-technology)
+💼 [LinkedIn](https://www.linkedin.com/company/webwaretechnology)
